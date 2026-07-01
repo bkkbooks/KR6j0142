@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0142/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大妙金剛大甘露軍拏利焰鬘熾盛佛頂經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n0965.xml
+    old_id: T19n0965
+hash: sha256:42cead92d888490aecf0deafa59cf3bdf807dee6e247e1eb418fb3914a914771

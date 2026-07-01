@@ -1,0 +1,44 @@
+canonical_identifier: bkk:krp/KR6j0142/v1
+canonical_location: https://kanripo.org/bkk/KR6j0142/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 大妙金剛大甘露軍拏利焰鬘熾盛佛頂經
+  identifiers:
+    alt_id:
+    - T19n0965
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n0965.xml
+    old_id: T19n0965
+  edition:
+    short: bkk
+editions:
+- short: 原
+  label: 原
+  source_xml_id: wit1
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0142_000.yaml, hash: 'sha256:42cead92d888490aecf0deafa59cf3bdf807dee6e247e1eb418fb3914a914771'}
+  - {seq: 1, filename: KR6j0142_001.yaml, hash: 'sha256:f8c0eac32ab5104bf1c649eebe36106f9dbd5300d953c221e7622ce13fd3875d'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0142_001.markers.yaml, hash: 'sha256:a68b92409ead73e1d38fc0bfeb0334736551517fd7834ee0fd4fe8a4e285518b'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0142_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 4289
+  label: '大妙金剛大甘露軍拏利焰鬘熾
+
+    盛佛頂經'
+  type: juan
+  level: 1
+hash: sha256:2706c94daa814848566713345ae65ae09040069b85427ace71e32a0e807981b0
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
