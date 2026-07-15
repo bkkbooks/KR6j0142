@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0142/v1
 canonical_location: https://kanripo.org/bkk/KR6j0142/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 大妙金剛大甘露軍拏利焰鬘熾盛佛頂經
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0142_000.yaml, hash: 'sha256:42cead92d888490aecf0deafa59cf3bdf807dee6e247e1eb418fb3914a914771'}
-  - {seq: 1, filename: KR6j0142_001.yaml, hash: 'sha256:5615d035d60fd81287572c2f09fe6f46a3099548adb3c350a98f91293b5af332'}
+  - {seq: 1, filename: KR6j0142_001.yaml, hash: 'sha256:2b34e9c2ce4cb16164d7821464380207d164658adf41c0dfc43e0b9b299ca393'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0142_000.markers.yaml, hash: 'sha256:4d11ba173d219bcfbc2c921b46dde4f832f5dbdcd9a28ad0a01589c9899316b5'}
-  - {seq: 1, role: markers, filename: assets/KR6j0142_001.markers.yaml, hash: 'sha256:02397094979a92a31ae151bc51c8efd44ac1b8dce945e2c68934dee87475f066'}
+  - {seq: 1, role: markers, filename: assets/KR6j0142_001.markers.yaml, hash: 'sha256:19fc27aa20a9ca3ef70b8030c7731c5881fada72730f8b12060caa1ab68de4ae'}
 table_of_contents:
 - ref:
     seq: 1
@@ -39,4 +39,7 @@ table_of_contents:
     盛佛頂經'
   type: juan
   level: 1
-hash: sha256:7625528061bf35035d54ac8ee32fe11cdd8dc417497e37bb0bfc4c64d257f253
+hash: sha256:9e9f4f87d624a771b8d124e9f4dd7c6bb482617dcf34183dcc58808ce2557d17
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
